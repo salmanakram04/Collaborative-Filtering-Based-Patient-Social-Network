@@ -1,0 +1,17 @@
+{
+    "basic_types": [
+        { "title": "Biss Keys","value": "BISS_KEYS" },
+        { "title": "PowerVu", "value": "POWERVU" },
+        { "title": "Satellite Keys", "value": "SATELLITE_KEYS"},
+        { "title": "Receiver Software", "dropdown": true, "list": [
+            { "title": "All Receiver Softwares", "value": "ALL_RECEIVER_SOFTWARE", "all_post": true},
+            { "title": "Neosat Receiver Software", "value": "NEOSAT_RECEIVER_SOFTWARE"},
+            { "title": "Startrack Receiver Software", "value": "STARTRACK_RECEIVER_SOFTWARE"},
+            { "title": "China Receiver Software", "value": "CHINA_RECEIVER_SOFTWARE"},
+            { "title": "Echolink Receiver Software", "value": "ECHOLINK_RECEIVER_SOFTWARE"},
+            { "title": "Other Brand Software", "value": "OTHER_BRAND_SOFTWARE"}
+        ]},
+        { "title": "Channel TP", "value": "CHANNEL_TP"}
+    ],
+    "footer_description": "CFBPSN Inc, Take Charge Get personalized education, helpful tools, and motivational nudges that will help you take charge of your health in new and relevant ways    Taking care of your mental health during COVID-19 How treatment evaluations help you and the community What does good care mean to you?"
+}

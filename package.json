@@ -1,0 +1,26 @@
+{
+  "name": "patientlikeme.com",
+  "version": "1.0.0",
+  "description": "My fantastic Nuxt.js project",
+  "author": "Web",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "heroku-postbuild": "npm run build"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "child_process": "^1.0.2",
+    "firebase": "^7.18.0",
+    "javascript-time-ago": "^2.3.3",
+    "jquery": "^3.5.1",
+    "mic-recorder-to-mp3": "^2.2.2",
+    "moment": "^2.27.0",
+    "node-audiorecorder": "^2.2.0",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
